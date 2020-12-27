@@ -1,2 +1,4 @@
-# emacs.d
-.emacs.d
+# 設定集
+* emacs
+* zsh
+* tmux
