@@ -25,10 +25,10 @@ alias e='emacs'
 alias md='open /Applications/Typora.app'
 alias zsh='emacs ~/.zshrc'
 alias szsh='source ~/.zshrc'
+alias ide='~/.scripts/ide.sh'
 
 alias python='python3.8'
 alias pip='pip3.8'
-alias jup='jupyter notebook /Users/nori/Documents/jupyter'
 
 alias ls='ls -G'
 alias la='ls -a'
